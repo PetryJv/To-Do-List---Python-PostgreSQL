@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 To-Do List em Python + PostgreSQL
 
 ## 📌 Sobre o Projeto
@@ -146,3 +147,6 @@ python main.py
 
 **João Victor Petry**  
 Estudante de Ciência da Computação
+=======
+# To-Do-List---Python-PostgreSQL
+>>>>>>> 1cac323ed5579a6724bbb739d1fa5b105f8a7a33
